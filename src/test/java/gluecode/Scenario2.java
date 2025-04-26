@@ -6,6 +6,8 @@ public class Scenario2 {
 		int x=100;
 		//println
 		System.out.println(x);
+		
+		int y=200;
 
 	}
 
