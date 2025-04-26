@@ -8,6 +8,8 @@ public class Scenario2 {
 		System.out.println(x);
 		
 		int y=200;
+		
+		System.out.println(y);
 
 	}
 
