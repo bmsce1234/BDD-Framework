@@ -9,8 +9,8 @@ public class Scenario2 {
 		
 		int y=200;
 		
-		System.out.println(y);
-
+	//	System.out.println(y);
+System.out.println("value"+y);
 	}
 
 }
