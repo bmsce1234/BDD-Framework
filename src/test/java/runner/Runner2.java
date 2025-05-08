@@ -6,6 +6,7 @@ public class Runner2 {
 	{
 		System.out.println("added one more runner class");
 		System.out.println("hi");
+		System.out.println("hello");
 	}
 
 }
